@@ -1,10 +1,10 @@
-title: Aladesanmi Ayomide # your name (or website title) here
+title: "Aladesanmi Ayomide" # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>"A budding Data Analyst with extensive experience in transforming raw data to produce user-friendly reports, certifications and visualization. Live, breathe ETL"<br>
   Second description 
-  <br><br>
+  <br>"Not a Cat person"<br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
